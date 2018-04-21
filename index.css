@@ -1,0 +1,13 @@
+a
+{
+ 	color: blue;
+}
+a:hover, a:active
+{
+	color: blue;
+}
+
+span
+{
+	bottom: 10%;
+}
